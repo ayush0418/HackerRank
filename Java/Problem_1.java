@@ -5,7 +5,6 @@ public class Problem_1 {
         Scanner scanner = new Scanner(System.in);
         int n = scanner.nextInt();
 
-
         if(n%2 == 0) {
 
             if (n >= 2 && n <= 5) {
