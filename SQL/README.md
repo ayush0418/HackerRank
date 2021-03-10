@@ -1,1 +1,1 @@
-### SQL queries in HackerRank
+# SQL queries in HackerRank
