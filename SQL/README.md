@@ -1,1 +1,1 @@
-# SQL queries in HackerRank
+# Here i will be uploading my SQL hackerRank queries.
